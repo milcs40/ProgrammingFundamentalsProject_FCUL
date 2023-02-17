@@ -20,4 +20,4 @@ drones (i.e. updated information after previous drone attribution) to iterate ov
 - Establishes company working hours and activity throughout the year, following specification given in the project.
 - Establishes that drones’ updates are given 30 minutes after parcel assignment.
 ## dronyD.py:
- The main handler for all the modules. It starts by checking for file errors and file compatibility errors. If no errors are found, reads the drone and parcel files into lists, assigns best drones to parcels and creates updated lists of deliveries and drones. Finally, it writes this information into two new output files; an updated drones file and a timetable file.
+- The main handler for all the modules. It starts by checking for file errors and file compatibility errors. If no errors are found, reads the drone and parcel files into lists, assigns best drones to parcels and creates updated lists of deliveries and drones. Finally, it writes this information into two new output files; an updated drones file and a timetable file.
