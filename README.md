@@ -1,4 +1,4 @@
-# ProgrammingFundamentalsProject_python_FCUL
+# Programming Fundamentals Project (python) @ FCUL
 
 Group project, using Python 3, for Programming Fundamentals. Develop a software, dronyDeliv, to manage the attribution of transportation requests assigned to drones of a distribution company.
 
